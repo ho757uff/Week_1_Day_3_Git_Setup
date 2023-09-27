@@ -1,7 +1,12 @@
 body{
-background-color:rgb(27, 23, 27)
+  background-color:aquamarine;
 }
 
 h1 {
-color:red
+  color:red;
+  text-align:center;
+}
+
+h2 {
+  color:blue
 }
